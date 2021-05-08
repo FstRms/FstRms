@@ -1,8 +1,14 @@
-### Hi there 👋
+## 👋 Hi there! My Name is Fausto.
+- 🖥 I´m a Tech Enthusiast.
+- 🔭 I’m currently working on Back End Development.
+- 🌱 I’m currently learning AWS Cloud Solutions.
+
+<!-- ### Languages and Tools -->
 
 
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
+![FstRms's GitHub stats](https://github-readme-stats.vercel.app/api?username=FstRms&show_icons=true&theme=radical&count_private=true&hide=stars,contribs)
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+##### Your own joke banner [here!](https://github.com/ABSphreak/readme-jokes)
 <!--
 **FstRms/FstRms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
