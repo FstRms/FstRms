@@ -2,7 +2,7 @@
 
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=solarized-dark)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
 <!--
 **FstRms/FstRms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
