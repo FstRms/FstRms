@@ -1,5 +1,5 @@
 ## 👋 Hi there! My Name is Fausto.
-- 🖥 I´m a Tech Enthusiast.
+- 🖥 I´m a Tech Enthusiast from México.
 - 🔭 I’m currently working on Back End Development.
 - 🌱 I’m currently learning AWS Cloud Solutions.
 
